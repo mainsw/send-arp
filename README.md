@@ -1,4 +1,5 @@
 # send-arp
+Ubuntu 22.04에서 테스트 되었습니다.
 
 ## Usage
 ```shell
