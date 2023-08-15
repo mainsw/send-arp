@@ -11,3 +11,5 @@ sample: send-arp wlan0 192.168.10.2 192.168.10.1
 
 ## Demo
 <img src="https://github.com/mainsw/send-arp/blob/main/img/demo1.png">
+<img src="https://github.com/mainsw/send-arp/blob/main/img/demo2.png">
+<img src="https://github.com/mainsw/send-arp/blob/main/img/demo3.png">
